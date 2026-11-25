@@ -1,0 +1,11 @@
+
+langgraph
+langchain-google-genai
+pandas
+numpy
+streamlit
+plotly
+python-dotenv
+jupyter
+ipykernel
+langchain-groq
