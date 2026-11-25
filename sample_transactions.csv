@@ -1,0 +1,16 @@
+transaction_id,date,description,amount,transaction_type,category,payment_mode
+TXN001,2026-11-01,Monthly Salary,60000,income,Salary,Bank Transfer
+TXN002,2026-11-02,House Rent,12000,expense,Rent,UPI
+TXN003,2026-11-03,Grocery Shopping,3500,expense,Food,UPI
+TXN004,2026-11-04,Electricity Bill,1500,expense,Utilities,UPI
+TXN005,2026-11-05,Fuel,2000,expense,Transportation,Card
+TXN006,2026-11-06,Restaurant,1200,expense,Food,UPI
+TXN007,2026-11-07,Online Shopping,2500,expense,Shopping,Card
+TXN008,2026-11-08,Freelance Income,5000,income,Freelance,Bank Transfer
+TXN009,2026-11-09,Internet Bill,999,expense,Utilities,UPI
+TXN010,2026-11-10,Movie Tickets,800,expense,Entertainment,UPI
+TXN011,2026-11-11,Medical Expenses,1800,expense,Healthcare,UPI
+TXN012,2026-11-12,Education Course,1500,expense,Education,Card
+TXN013,2026-11-13,Monthly Loan EMI,4000,expense,Loan Payment,Bank Transfer
+TXN014,2026-11-14,Investment Contribution,3000,investment,Investment,Bank Transfer
+TXN015,2026-11-14,Transportation,600,expense,Transportation,UPI
